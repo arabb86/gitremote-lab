@@ -1,0 +1,10 @@
+{
+    "Resources" : {
+        "Hello7896" : {
+            "Type" : "AWS::S3::Bucket",
+            "Properties" : {
+               "AccessControl" : "PublicRead"               
+            }
+        }
+    }
+}
